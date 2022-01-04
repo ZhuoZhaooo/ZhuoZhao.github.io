@@ -2,23 +2,25 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>TEL: +1 401-618-4308 </p>
+    <p>TEL: +86 15607155585 </p>
+    <p>zhaozhuowork@yeah.net</p>
+    <p>727w 40th st</p>
+    <p>Baltimore, MD 21211</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Zhuo Zhao is a master majoring financial mathematics at Johns Hopkins Whiting School of Engineering. He completed a bachelor degree of applied mathematics and a degree of finance at University of Rhode Island in 2020. And he holds a degree of Finance at Zhongnan University of Economics and Law. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Zhuo Zhao has been a practitioner of quantitative value investment. He takes the best aspects from the diciplines of value investing and quantitative investing and applies them to a completely unique and winning approach to stock selection. He tries to make value investing more efficient and more convincible with the techniques of statistics and machine learning. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+From the past internships, Zhuo Zhao has gained expieriences in Bigdata Engineering and Analysis, Risk Management, Financial Modeling and Equity Research. He is now a Research Assistant and a Teaching Assistant under the guidance of Professor Sudip Gupta at Johns Hopkins University. 

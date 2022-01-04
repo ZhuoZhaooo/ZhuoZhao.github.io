@@ -35,3 +35,19 @@ $black-color: #000000 !default;
 
 $code-bg-color-light:     rgba($purple-color, 0.05);
 $code-bg-color-dark:      #2c3237 !default;
+
+// Fonts
+$times: "Times New Roman", sans-serif;
+// Simple Times Font Stack
+// Simple Arial Font Stack
+$arial: Arial, sans-serif;
+// Simple Georgia Font Stack
+$georgia: Georgia, serif;
+// Simple Garamond Font Stack
+$garamond: 'Apple Garamond', 'ITC Garamond Narrow', 'Garamond', serif;
+// Simple Trebuchet Font Stack
+$trebuchet: 'Trebuchet MS', sans-serif;
+// Simple Gill Sans Font Stack
+$gillsans: 'Gill Sans MT', 'Gill Sans', Tahoma, Geneva, sans-serif;
+// Terminal / Monospace font
+$terminal: Monaco, 'Lucida Sans Typewriter', Consolas, 'Courier New', monospace;
